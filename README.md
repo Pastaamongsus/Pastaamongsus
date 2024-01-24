@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pastaamongsus
 - 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ... in 3b 
-- 💞️ I’m looking to collaborate on ...@chip-@shadow
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... weeimnotely@gmail.com 
 
 <!---
